@@ -142,6 +142,7 @@ ${answers.email}
       // Prompt the next question
       inquirer.prompt([questions[index]]).then(answer => {
         // Store the answer in the answers object
+        // this way of making objects was new to me and I learned about it through PHIND
         Object.assign(answers, answer);
         // Prompt the next question
         promptNextQuestion(index + 1, answers);

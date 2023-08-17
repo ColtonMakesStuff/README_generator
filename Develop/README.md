@@ -29,7 +29,8 @@ Contributions are not allowed at this time Please follow the guidelines.
 
 ## Video Link 
 
+https://youtu.be/Gcjbli9z-EM
 ## repository link 
 
-
+https://github.com/ColtonMakesStuff/README_generator
   
